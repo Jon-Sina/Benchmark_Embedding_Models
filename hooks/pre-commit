@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if git diff --cached --name-only | grep -q "^slides/benchmark_embedding_models\.odp$"; then
+  echo "benchmark_embedding_models.odp modified, converting to PDF..."
+  libreoffice --headless --convert-to pdf slides/benchmark_embedding_models.odp --outdir slides/
+  
+  if [ -f "slides/benchmark_embedding_models.pdf" ]; then
+    echo "benchmark_embedding_models.pdf generated successfully."
+    git add slides/benchmark_embedding_models.pdf
+  else
+    echo "Error: benchmark_embedding_models.pdf was not generated."
+    exit 1
+  fi
+fi
+
+exit 0
