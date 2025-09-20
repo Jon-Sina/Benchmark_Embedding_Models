@@ -2,7 +2,7 @@
 
 ![Cover image](./images/thumbnail.jpg)
 
-Welcome to the repository! This is a project inspired by the work I did for the company that I work for. The goal of this project is to create a golden dataset from your or your company's data, and then use it to benchmark different embedding models.
+Welcome to the repository! This project is designed to help you create a high-quality (golden) dataset from your own or your company's data. You can then use this dataset to benchmark and compare different embedding models.
 
 > [!NOTE]
 > Still a work in progress.
